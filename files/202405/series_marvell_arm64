@@ -1,3 +1,7 @@
+0001-Add-Wistron-platform-ES1227-54TS-and-ES2227-54TS.patch|sonic-buildimage
+0002-Update-EZB-XML-for-static-TX-EQ-tunning.patch|sonic-buildimage
+0003-Adjust-code-segment-regarding-installation-for-speci.patch|sonic-buildimage
+0001-Add-arm64-dts-and-xmc-spi-device-for-Wistron-platfor.patch|src/sonic-linux-kernel
 0001-SAI-switch-create-timeout-WA.patch|src/sonic-sairedis
 3192.patch|src/sonic-utilities
 3135.patch|src/sonic-swss
